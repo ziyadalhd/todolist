@@ -3,5 +3,8 @@
 </script>
 
 <div class="p-16">
-  <Header />
-</div>
+  <Header/>
+  <div class="input-group input-group-divider flex justify-between">
+    <input class="flex-1 !bg-white" type="search" placeholder="أدخل مهامك هنا.." />
+    <button class="variant-filled-secondary ">أضافة</button>
+  </div></div>
